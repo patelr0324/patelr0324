@@ -1,3 +1,4 @@
+```
 const riya = {
   pronouns: "she" | "her",
   code: [Java, JavaScript, TypeScript, HTML, CSS, Python, RISC-V],
@@ -9,3 +10,4 @@ const riya = {
   cs: [DSA, OOP, DBMS, Operating System, Computer Networks],
   currently learning: [Supabase, PostgreSQL, C++],
 }
+```
