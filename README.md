@@ -6,7 +6,7 @@ const riya = {
   backend: [node.js, express, Mongoose],
   databases : [SQLite, MongoDB],
   blockchain: [Solana],
-  tools: [Git, Github, VSCode, Cursor, Vercel],
+  tools: [Git, Github, VSCode, Cursor, Vercel, Railway],
   cs: [DSA, OOP, DBMS, Operating System, Computer Networks],
   currently learning: [Supabase, PostgreSQL, C++],
 }
