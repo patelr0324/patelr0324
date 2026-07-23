@@ -1,4 +1,4 @@
-```
+```javascript
 const riya = {
   pronouns: "she" | "her",
   code: [Java, JavaScript, TypeScript, HTML, CSS, Python, RISC-V],
