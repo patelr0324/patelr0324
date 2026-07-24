@@ -8,6 +8,6 @@ const riya = {
   blockchain: [Solana],
   tools: [Git, Github, VSCode, Cursor, Vercel, Railway],
   cs: [DSA, OOP, DBMS, Operating System, Computer Networks],
-  currently learning: [Supabase, PostgreSQL, C++],
+  currentlyLearning: [Supabase, PostgreSQL, C++],
 }
 ```
